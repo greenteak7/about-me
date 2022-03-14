@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @greenteak7
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on application with Python
+- 👀 I’m interested in informatics and medical
+- 🌱 I’m currently learning Python, HTML, CSS, and Javascript
 - 📫 How to reach me IG: green.teak
 
 <!---
